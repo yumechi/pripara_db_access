@@ -1,0 +1,202 @@
+{
+    "solami_smile": {
+        "key": "solami_smile",
+        "name": "SoLaMi♡SMILE",
+        "character": [
+            "manaka_laala",
+            "minami_mirei",
+            "hojo_sophie"
+        ]
+    },
+    "dressing_pafe": {
+        "key": "dressing_pafe",
+        "name": "DressingPafé",
+        "character": [
+            "todo_shion",
+            "dorothy_west",
+            "leona_west"
+        ]
+    },
+    "aromageddon": {
+        "key": "aromageddon",
+        "name": "アロマゲドン",
+        "character": [
+            "kurosu_aroma",
+            "shiratama_mikan"
+        ]
+    },
+    "pripara_police": {
+        "key": "pripara_police",
+        "name": "プリパラポリス",
+        "character": [
+            "manaka_laala",
+            "dorothy_west",
+            "shiratama_mikan"
+        ]
+    },
+    "garumageddon": {
+        "key": "garumageddon",
+        "name": "ガァルマゲドン",
+        "character": [
+            "kurosu_aroma",
+            "shiratama_mikan",
+            "gaaruru"
+        ]
+    },
+    "triangle": {
+        "key": "triangle",
+        "name": "TRiANGLE",
+        "character": [
+            "junon",
+            "pinon",
+            "kanon"
+        ]
+    },
+    "tricolore": {
+        "key": "tricolore",
+        "name": "Tricolore",
+        "character": [
+            "shikyoin_hibiki",
+            "faruru",
+            "midorikaze_fuwari"
+        ]
+    },
+    "non_sugar": {
+        "key": "non_sugar",
+        "name": "NonSugar",
+        "character": [
+            "non_manaka",
+            "chiri_tsukikawa",
+            "taiyo_pepper"
+        ]
+    },
+    "ucchari_big_bangs": {
+        "key": "ucchari_big_bangs",
+        "name": "UCCHARI BIG-BANGS",
+        "character": [
+            "hojo_cosmo",
+            "kiki_ajimi",
+            "nabesima_chanko"
+        ]
+    },
+    "solami_dressing": {
+        "key": "solami_dressing",
+        "name": "SoLaMiDressing",
+        "character": []
+    },
+    "solami_dressing_and_falulu": {
+        "key": "solami_dressing_and_falulu",
+        "name": "SoLaMiDressing&Falulu",
+        "character": []
+    },
+    "laala_and_mirei": {
+        "key": "laala_and_mirei",
+        "name": "らぁら&みれぃ",
+        "character": []
+    },
+    "solamageddon_mi": {
+        "key": "solamageddon_mi",
+        "name": "そらマゲドン・み",
+        "character": []
+    },
+    "dressing_flower": {
+        "key": "dressing_flower",
+        "name": "ドレッシングふらわー",
+        "character": []
+    },
+    "cosmic_omelet_rice_da_vinci": {
+        "key": "cosmic_omelet_rice_da_vinci",
+        "name": "コズミックオムライスダ・ヴィンチ",
+        "character": []
+    },
+    "serepara_kagekidan": {
+        "key": "serepara_kagekidan",
+        "name": "セレパラ歌劇団",
+        "character": []
+    },
+    "dorothy_and_leona": {
+        "key": "dorothy_and_leona",
+        "name": "ドロシー&レオナ",
+        "character": []
+    },
+    "friend_all": {
+        "key": "friend_all",
+        "name": "ふれんど～る",
+        "character": []
+    },
+    "huwari_and_hibiki": {
+        "key": "huwari_and_hibiki",
+        "name": "ふわり&ひびき",
+        "character": []
+    },
+    "pripara_dream_all_stars": {
+        "key": "pripara_dream_all_stars",
+        "name": "プリパラドリーム☆オールスターズ",
+        "character": []
+    },
+    "friend_all_and_serepara_kagekidan": {
+        "key": "friend_all_and_serepara_kagekidan",
+        "name": "ふれんど～る&セレパラ歌劇団",
+        "character": []
+    },
+    "laala_and_non": {
+        "key": "laala_and_non",
+        "name": "らぁら&のん",
+        "character": []
+    },
+    "falulu_and_hibiki": {
+        "key": "falulu_and_hibiki",
+        "name": "ファルル&ひびき",
+        "character": []
+    },
+    "laala_and_gaaruru": {
+        "key": "laala_and_gaaruru",
+        "name": "らぁら&ガァルル",
+        "character": []
+    },
+    "laala_with_triangle": {
+        "key": "laala_with_triangle",
+        "name": "らぁら with トライアングル",
+        "character": []
+    },
+    "laala_with_junon": {
+        "key": "laala_with_junon",
+        "name": "らぁら with じゅのん",
+        "character": []
+    },
+    "laala_with_pinon": {
+        "key": "laala_with_pinon",
+        "name": "らぁら with ぴのん",
+        "character": []
+    },
+    "laala_with_kanon": {
+        "key": "laala_with_kanon",
+        "name": "らぁら with かのん",
+        "character": []
+    },
+    "chanko_with_sophie_sinneitai": {
+        "key": "chanko_with_sophie_sinneitai",
+        "name": "ちゃん子 with そふぃ親衛隊",
+        "character": []
+    },
+    "jewlie_and_janice": {
+        "key": "jewlie_and_janice",
+        "name": "ジュリィ&ジャニス",
+        "character": []
+    },
+    "solami_smile_and_jewlie_and_janice": {
+        "key": "solami_smile_and_jewlie_and_janice",
+        "name": "SoLaMi SMILE&ジュリィ&ジャニス",
+        "character": []
+    },
+    "dressing_pafe_and_non_sugar_and_tricolore_and_garumageddon_and_ucchari_big_bangs": {
+        "key": "dressing_pafe_and_non_sugar_and_tricolore_and_garumageddon_and_ucchari_big_bangs",
+        "name": "DressingPafé & NonSugar & Tricolore & ガァルマゲドン & UCCHARI BIG-BANGS",
+        "character": []
+    },
+    "solami_smile_and_dressing_pafe_and_non_sugar_and_tricolore_and_garumageddon_and_ucchari_big_bangs": {
+        "key": "solami_smile_and_dressing_pafe_and_non_sugar_and_tricolore_and_garumageddon_and_ucchari_big_bangs",
+        "name": "SoLaMi SMILE & DressingPafé & NonSugar & Tricolore & ガァルマゲドン & UCCHARI BIG-BANGS",
+        "character": []
+    }
+}
